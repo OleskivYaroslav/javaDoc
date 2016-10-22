@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - sleep_record@localhost" uuid="8d35a5d3-4988-43e9-94bb-0de6ba2cf398">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>sleep_record.pg_catalog sleep_record.public</schema-pattern>
+      <default-schemas>sleep_record.public</default-schemas>
+    </data-source>
+  </component>
+</project>
